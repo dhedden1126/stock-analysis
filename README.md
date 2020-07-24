@@ -23,5 +23,8 @@ Potential challenges with the analysis include the following:
 - complicated and multiple loops to be written
 - concluding much with the analysis was difficult due to the lack of depthness
 
-## Results
+## Summary
 Overall, investors in the twelve companies analyzed, made positive returns versus 2018 and would have been better served to trim positions prior to 2018. 
+
+Technically speaking, refactoring code assists in reducing the processing time. Which is a benefit when working with larger data sets.
+The down side is the time invested to refactor previous code that worked and that may mean additional operational costs within an organization. 
