@@ -13,8 +13,10 @@ This analysis shows the performance from start to end of a year, so determining 
 The scope of the analysis was narrow and provided minimal insight
 
 ### Analysis of Report Processessing Speed (2017)
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/67982071/88426501-4cd9a100-cdbf-11ea-9606-b1bf2ace9e66.png)
 
 ### Analysis of Report Processessing Speed (2018)
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/67982071/88426510-5105be80-cdbf-11ea-9ccb-e222cfbda5c1.png)
 
 ### Challenges and Difficulties Encountered
 Potential challenges with the analysis include the following:
